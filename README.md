@@ -1,4 +1,5 @@
-This is a Sapper (Svelte) basic forum web application which I already built with [Vue.js ](https://github.com/Ashot72/Vue2Forum) and [Nuxt.js](https://github.com/Ashot72/Nuxt2Forums).
+This is a Sapper (Svelte) basic forum web application which I already built with [Vue.js ](https://github.com/Ashot72/Vue2Forum) and [Nuxt.js](https://github.com/Ashot72/Nuxt2Forum).
+
 [Svelte](https://svelte.dev) is a radical new approach to building user interfaces. It shifts the work into a compile step that happens when you build you app as opposed to React and Vue frameworks where the bulk of the work is done in the browser. Svelte is a compiler not a framework. Svelte works on real DOM, no virtual DOM. The idea behind Svelte is that you do not ship your code in a framework but you write a code using a certain syntax and the Svelte is a tool that runs over your code and generates pure vanilla JavaScript code which is highly optimized and which contains a bunch of instructions which will basically make the things happen in the browser. Reducing the amount of the code you have to write is an explicit goal of Svelte. For example, a React component is typically around 40% larger than its Svelte equivalent.
 
 [Sapper](https://sapper.svelte.dev/) is an application framework powered by Svelte. If you are familiar with Next.js for React, the framework built on top of React, or Nuxt.js for Vue, it is the same idea with one major difference – better performance. Sapper takes care of all the heavy lifting including things like Server Rendering, Routing, Code splitting, Progressive web app by default, prefetching of routes, testing etc.
@@ -34,6 +35,6 @@ To get started.
 
 ```
 
-Go to [Sapper Svelte](https://youtu.be/33WeNhsAcBk) video page
+Go to [Sapper Svelte](https://youtu.be/_GnSUpDZSIE) video page
 
-Go to [How to run and description](https://ashot72.github.io/Nuxt2Forum/index.html) page
+Go to [How to run and description](https://ashot72.github.io/sapper-svelte-forum/) page
