@@ -1,0 +1,7 @@
+export const BASE = 'https://svelte-forum.firebaseio.com/'
+export const API_URL = 'https://www.googleapis.com/identitytoolkit'
+export const KEY = 'AIzaSyAJbvF6_AozZdUQ1wEloNMUrsTUDzebjO0'
+export const SIGNIN_URL = 'v3/relyingparty/verifyPassword'
+export const SIGNUP_URL = 'v3/relyingparty/signupNewUser'
+export const REFRESHTOKEN_URL = 'https://securetoken.googleapis.com/v1/token'
+export const STORAGE_KEY = 'svelte-forum'
