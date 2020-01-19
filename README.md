@@ -7,6 +7,8 @@ This is a Sapper (Svelte) basic forum web application which I already built with
 The app is hosted on Firebase (static hosting) https://svelte-forum.web.app/. You may not see the forums, topics, posts you created or even receive ‘Page Not Found’ after refreshing the browser.
 You will not face it if you run your app locally. Please watch the video and read the description below.
 
+The app does not work properly in Microsoft Edge browser because of Bootstrap components for Svelte package (more on description page).
+
 To get started.
 
 ```
