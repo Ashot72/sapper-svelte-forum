@@ -15,7 +15,7 @@ To get started.
        Clone the repository
 
        git https://github.com/Ashot72/sapper-svelte-forum
-       cd sapper-svelte-forum.git
+       cd sapper-svelte-forum
 
        # installs dependencies
        npm install
