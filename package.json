@@ -14,7 +14,7 @@
   "dependencies": {
     "compression": "^1.7.1",
     "local-storage": "^2.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "polka": "next",
     "sirv": "^0.4.0",
     "sveltestrap": "^3.2.10"
